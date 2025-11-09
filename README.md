@@ -34,7 +34,7 @@ Java JDK 8 or above installed
 (Optional) MySQL Server if using database version
 
 2️⃣ Clone or Download Project
-git clone https://github.com/yourusername/Food-Ordering-System.git
+git clone https://github.com/Al0kDev/Food-Ordeing-System
 cd Food-Ordering-System
 
 3️⃣ Compile the Source Code
